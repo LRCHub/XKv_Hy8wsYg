@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ガラスボールリジェクション",
+  "base_artist": "若菜四季 (CV.大熊和奏)",
+  "createdAt": "2026-03-11T05:49:30.390939Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ガラスボールリジェクション",
+      "artist": "若菜四季 (CV.大熊和奏)",
+      "has_synced": false,
+      "path": "select/pl_01_ガラスボールリジェクション_若菜四季_(CV.大熊和奏).txt"
+    }
+  ]
+}
